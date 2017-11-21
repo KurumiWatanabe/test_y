@@ -42,6 +42,6 @@ int test (char *S)
 
 int main(){
 
-  char S[] ="a0Ba";
+  char S[] ="b0Ba";
   printf("%d\n",test(S));
 }
